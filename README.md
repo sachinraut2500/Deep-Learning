@@ -1,5 +1,5 @@
 # Deep Learning Projects 🚀
---
+
 Welcome to the **Deep-Learning** repository by [sachinraut2500](https://github.com/sachinraut2500)! This repository contains hands-on projects that demonstrate the practical application of deep learning concepts using TensorFlow, Keras, and other Python-based libraries.
 -------
 ## 📁 Repository Contents
@@ -15,7 +15,7 @@ This notebook showcases a convolutional neural network (CNN) model used to detec
 
 Use Case: Could be extended into a car counting, tracking, or detection system for real-time video feeds.
 
-------------
+-------------
 ### 2. 🌐 Language Translation using Seq2Seq Models
 **File:** `Language_Translation_using_Seq_to_Seq_models.ipynb`  
 **Description:**  
