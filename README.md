@@ -26,7 +26,7 @@ This project implements a sequence-to-sequence (Seq2Seq) model for translating t
 
 Use Case: Foundation for building machine translation systems like English–French, English–Hindi, etc.
 
---------
+----------
 
 ## 🔧 Tech Stack
 
