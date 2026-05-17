@@ -15,7 +15,7 @@ This notebook showcases a convolutional neural network (CNN) model used to detec
 
 Use Case: Could be extended into a car counting, tracking, or detection system for real-time video feeds.
 
--------------------------
+---------------------------
 ### 2. 🌐 Language Translation using Seq2Seq Models
 **File:** `Language_Translation_using_Seq_to_Seq_models.ipynb`  
 **Description:**  
