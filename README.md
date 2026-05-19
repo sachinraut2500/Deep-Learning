@@ -1,7 +1,7 @@
 # Deep Learning Projects 🚀
 ----------------------------
 Welcome to the **Deep-Learning** repository by [sachinraut2500](https://github.com/sachinraut2500)! This repository contains hands-on projects that demonstrate the practical application of deep learning concepts using TensorFlow, Keras, and other Python-based libraries.
---------------------------------
+----------------------------------
 ## 📁 Repository Contents
 
 ### 1. 🚗 Car Detection using CNN
